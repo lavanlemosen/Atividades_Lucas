@@ -1,0 +1,17 @@
+D:\visual\Atividade1\Atividade1\bin\Debug\net7.0-windows\Atividade1.exe
+D:\visual\Atividade1\Atividade1\bin\Debug\net7.0-windows\Atividade1.deps.json
+D:\visual\Atividade1\Atividade1\bin\Debug\net7.0-windows\Atividade1.runtimeconfig.json
+D:\visual\Atividade1\Atividade1\bin\Debug\net7.0-windows\Atividade1.dll
+D:\visual\Atividade1\Atividade1\bin\Debug\net7.0-windows\Atividade1.pdb
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.csproj.AssemblyReference.cache
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.Form1.resources
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.csproj.GenerateResource.cache
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.AssemblyInfoInputs.cache
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.AssemblyInfo.cs
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.csproj.CoreCompileInputs.cache
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.dll
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\refint\Atividade1.dll
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.pdb
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\Atividade1.genruntimeconfig.cache
+D:\visual\Atividade1\Atividade1\obj\Debug\net7.0-windows\ref\Atividade1.dll
